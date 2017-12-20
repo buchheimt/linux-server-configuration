@@ -12,7 +12,7 @@ To access the site, simply visit `http://18.217.92.66` or `http://ec2-18-217-92-
 
 ## Accessing as `grader`
 
-ssh grader@18.217.92.66 -p 2200 -i <private key from "Notes to Reviewer">
+ssh grader@18.217.92.66 -p 2200 -i <location of private key pasted in "Notes to Reviewer">
 
 
 ## Server Configurations and Installations
