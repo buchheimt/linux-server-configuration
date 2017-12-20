@@ -58,6 +58,7 @@ Configurations:
     -Modify project to work with PostgreSQL instead of SQLite, and function as a wsgi app
 
 Installations:
+
     -apache2
 
     -libapache2-mod-wsgi-py3
